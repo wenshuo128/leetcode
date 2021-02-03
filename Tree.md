@@ -2,7 +2,7 @@
 
 ## Recursive
 
-### Height of the Tree
+### 1. Height of the Tree
 
 ```python
 import markdown
