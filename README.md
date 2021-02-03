@@ -1,3 +1,3 @@
 # Leetcode
 
-- [Two Pointers](Two Pointers.md)
+- [Two%20Pointers](Two%20Pointers.md)
